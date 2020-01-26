@@ -1,4 +1,4 @@
-# QuestionPaperAnalyser
+# Question Paper Analyser
 This Project aims to provide useful information to students regarding the question paper of their subjects
 <br<br>
 
